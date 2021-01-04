@@ -1,0 +1,19 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+Las variables son espacios en memoria que alojan datos de distinto tipo. Como su nombre lo indica estos espacios pueden modificar el contenido y su tipo.
+
+Las strings son un tipo de dato que almacena cadenas de caracteres. En la sintaxis de Javascript estas cadenas deben estar encerradas por comillas dobles o simples.
+
+Las funciones son un tipo de objetos que permite programar las acciones dispuestas entre los corchetes previo al ingreso de parametros. La sintaxis de las funciones esta determinada por la palabra reservada function, seguido por parentesis que contendran los parametros que deben ingresarse (no son obligatorios) y el codigo a ejecutarse que esta contenido entre corchetes. El return es una palabra reservada del lenguaje que determina dos cosas: que la funcion devuelva un dato, y el fin de esa funcion, luego del return se acaba la funcion, no devuelve nada mas.
+
+Las declaraciones IF son condicionales o controles de flujo que determinan dos caminos posibles. Toda declaracion IF puede ser verdadera o falsa, por lo que se implementa que cumplida una condicion dada, que se escribe luego de la palabra if y entre parentesis, se realizara una o mas acciones encerradas entre llaves. Si no se cumple la condicion se puede determinar otro grupo de acciones.
+
+los valores booleanos estan intimamente relacionados con las delcaraciones if en el sentido que son los unicos dos resultados que puede arrojar un condicional.
+
+
