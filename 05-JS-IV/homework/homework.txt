@@ -1,0 +1,14 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+
+
+Los objetos son centrales en Javascript. Son datos complejos compuestos por combinaciones de key-values separados por ':'.- Los objetos pueden contener propiedades que podran consistir en todo tipo de datos primitivos asi como arrays e incluso otros objetos; y tmb funciones (que cuando estas se encuentran dentro de objetos se las llama "metodos").
+
+El bucle for .. in es un tipo especial de bucle que permite recorrer los objetos retornando tanto el contenido de la llave como su valor.
+
+La notacion es la forma en que podemos acceder a los datos contenidos en un objeto en sus diferentes niveles. Puede utilizarse la dotacion de puntos para acceder al valor de un dato, para ello debe comenzarse por el nombre del objeto y prosiguiendo con los nombres de las llaves de acceso al dato en forma decreciente, separando cada nombre por un punto. Esta dotacion unicamente permite incluir nombre de llaves y siempre que no haya espacios entre caracteres. En cambio la dotacion de corchetes permite, para llegar al mismo resultado incluir llaves, variables o funciones. 
