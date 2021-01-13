@@ -1,0 +1,60 @@
+ html {
+     background-color: #bbe1fa;
+ } 
+
+.encabezado{
+    display: flex;
+    height: 20vh;
+    justify-content: space-around;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 13%, rgba(0,212,255,1) 100%);
+    margin-bottom: 2rem;
+}
+
+.cuerpo{
+    background-color: #bbe1fa;
+}
+.caja-foto{
+    align-self: center;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 0 150px 0 180px;
+    align-self: center;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.columna1{
+    justify-content: center;
+    width: 30vw;
+    height: 55vh;
+    border: teal solid 3px;
+    padding: 2rem;
+}
+
+.columna2{
+    border: teal solid 3px;
+    padding: 3rem;
+}
+
+.presentacion{
+    border: teal solid 3px;
+    margin: 2rem;
+    padding: 2rem;
+}
+
+h3{
+    text-decoration: underline;
+}
+li{
+    list-style-type: none;
+    line-height: 30px;
+}
+
+section{
+    margin-bottom: 3rem;
+}

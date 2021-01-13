@@ -1,0 +1,56 @@
+html{
+    background-image: url(https://th.bing.com/th/id/OIP.ZCwqznETZ0XYGivCtdKWFQHaEg?pid=Api&w=148&h=90&c=7);
+   
+}
+
+.flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+h1 {
+    color: springgreen;
+}
+
+img{
+    width: 400px;
+    max-width: 100%;
+    /* line-height: 0;
+    text-align: center; */
+}
+
+li {
+    list-style-type: none;    
+}
+
+.divClass{
+    margin: 3rem;
+    text-align: center;}
+
+.divClass #spanId{
+    font-size: 18px;
+    margin: 50px;
+    text-align: justify;
+}
+
+.divClass a {
+    display: block;
+    text-decoration: none;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    /* background-color: rgb(9, 211, 187); */
+    padding: 50px;
+    border: 1px brown solid;
+    margin: 0 auto;
+}
+
+ul .flex {
+    display: flex;
+    /* flex-direction: row;   */
+    /* justify-content: flex-end; */
+    align-items: center;
+}
