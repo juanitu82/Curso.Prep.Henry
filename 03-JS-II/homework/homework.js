@@ -20,7 +20,7 @@ function saludo(idioma) {
   // Si "idioma" es "mandarin", devuelve "Ni Hao!"
   // Si "idioma" es "ingles", devuelve "Hello!"
   // Si "idioma" no es ninguno de los anteiores o es `undefined` devuelve "Hola!"
-  // Tu código:
+  // Tu código a continuacion:
   if(idioma === "aleman"){
     return "Guten Tag!";
   }else if(idioma === "mandarin"){
