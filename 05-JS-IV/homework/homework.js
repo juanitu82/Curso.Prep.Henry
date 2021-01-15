@@ -160,7 +160,7 @@ function agregarMetodoCalculoDescuento(producto) {
   // producto.precio -> 20
   // producto.porcentajeDeDescuento -> 0.2 (o simplemente ".2")
   // producto.calcularPrecioDescuento() -> 20 - (20 * 0.2)
-  // Tu código:
+  // Tu código a continuacion:
 
   producto.calcularPrecioDescuento = function () {
   var descuento = producto.precio * producto.porcentajeDeDescuento;
