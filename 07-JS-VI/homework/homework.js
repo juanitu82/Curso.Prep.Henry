@@ -8,7 +8,7 @@ function invocarCallback(cb) {
 function sumarArray(numeros, cb) {
   // Suma todos los números enteros (int/integers) de un array ("numeros")
   // Pasa el resultado a `cb`
-  // No es necesario devolver nada
+  // No es necesario devolver nada como return
  suma = numeros.reduce(function (ac, el){
     return ac + el;
   }, 0);
