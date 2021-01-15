@@ -6,7 +6,7 @@
 	* Declaraciones `if`
 	* Valores booleanos (`true`, `false`)
 
-Las variables son espacios en memoria que alojan datos de distinto tipo. Como su nombre lo indica estos espacios pueden modificar el contenido y su tipo.
+Las VARIABLES son espacios en memoria que alojan datos de distinto tipo. Como su nombre lo indica estos espacios pueden modificar el contenido y su tipo.
 
 Las strings son un tipo de dato que almacena cadenas de caracteres. En la sintaxis de Javascript estas cadenas deben estar encerradas por comillas dobles o simples.
 
